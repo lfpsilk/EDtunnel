@@ -1,11 +1,14 @@
-name = "xl-vidio-hendri" # todo
+name = "vlessfree" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
-	{ pattern = "hendri.kpmasjid.xyz", custom_domain = true }
+	{ pattern = "zaintest.vuclip.com.sg1.arnr.web.id", custom_domain = true }
+]
+routes = [
+	{ pattern = "zaintest.vuclip.com.wildcard.sg1.arnr.web.id", custom_domain = true }
 ]
 
 [vars]
@@ -15,4 +18,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "57705c93-a90c-481a-ac05-05203ccc0cd3"
+UUID = "ec2a194a-315d-4256-993d-fd08c6f68237"
